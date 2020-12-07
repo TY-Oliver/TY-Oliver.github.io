@@ -10,7 +10,7 @@
 
 
 
-[陈氏太极拳](/CC)
+[陈氏太极拳](https://ty-oliver.github.io/CC)
 [“易”哲学](/个人的心得与理解/README.md)
 [走在坎坷的数学路上](/个人的心得与理解/README.md)
 [中医与养生](/个人的心得与理解/README.md)
