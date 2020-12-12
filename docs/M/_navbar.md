@@ -1,5 +1,3 @@
 <!-- _navbar.md -->
-* [首页](/)
-* [十八式](/十八式/十八式口令)
-* [老架一路](/老架一路/老架一路口令)
+* [Oliver's Block](https://ty-oliver.github.io/)
 

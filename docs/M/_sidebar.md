@@ -1,5 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-- [十八式](/十八式/十八式口令)
-- [老架一路](/老架一路/老架一路口令)
-- [基本功](/基本功/基本功)
+- [首页](/)
+- [概率论与数理统计](/Probability-Statistics/Guide)
+- [常微分方程](/ODE/Guide)
+- [Diary](/Diary/Guide)
+
+
