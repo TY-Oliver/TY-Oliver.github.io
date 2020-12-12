@@ -1,3 +1,0 @@
-#  Start
-
-> An awesome project.
