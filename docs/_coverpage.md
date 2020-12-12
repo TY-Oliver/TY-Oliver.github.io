@@ -9,9 +9,8 @@
 
 
 
-
 [陈氏太极拳](https://ty-oliver.github.io/CC)
 [“易”哲学](https://ty-oliver.github.io/I-Ching/)
-[走在坎坷的数学路上](https://ty-oliver.github.io/math/)
-[中医与养生](https://ty-oliver.github.io/tcm/)
-
+[走在坎坷的数学路上](https://ty-oliver.github.io/Math/)
+[中医与养生](https://ty-oliver.github.io/TCM/)
+[Learn English](https://ty-oliver.github.io/English/)
